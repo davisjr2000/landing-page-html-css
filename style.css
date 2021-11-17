@@ -1,0 +1,59 @@
+body {
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+  margin: 0;
+}
+
+h1 {
+  font-size: 100px;
+  color: red;
+  font-weight: lighter;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#banner {
+  background-image: url("images/background.jpeg");
+  background-size: cover;
+  height: 100vh;
+  padding: 250px;
+}
+
+#banner h1 {
+  color: white;
+  font-size: 120px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+#banner a {
+  font-size: 30px;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+.card {
+  padding: 50px;
+  font-weight: lighter;
+}
+
+#cards-section {
+  padding: 50px;
+}
